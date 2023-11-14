@@ -45,6 +45,12 @@ Executando o Jogo
 O jogo será executado e você poderá interagir com ele.
 
 ---------------------------------------------------------------------------------------------------------------------------
+Como Jogar
+-----------------
+
+Para jogar utilize o W (ir para cima), A (ir para traz), S (ir para baixo), D (ir para frente) e espaço (atirar).
+
+---------------------------------------------------------------------------------------------------------------------------
 Contribuição
 ------------
 
